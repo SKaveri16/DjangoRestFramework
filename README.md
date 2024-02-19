@@ -54,3 +54,7 @@ These instructions will get you a copy of the project up and running on your loc
 7. Run the server
 
    python manage.py runserver
+
+
+   ####OUTPUT VIDEO
+   https://drive.google.com/file/d/14fW_tv4vJX6kDOhiiv9j133svzcCz_Of/view?usp=drivesdk
